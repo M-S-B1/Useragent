@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/72.0.0.3118;FBBV/2046126;[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/de_DE;FBCR/Rogers Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7500CWADBT;FBSV/5.0.1;nullFBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/411.1.0.29.112;FBBV/466874009;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBRV/469234913;FBCR/Airtel SC;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G532F;FBSV/6.0.1;FBOP/19;FBCA/armeabi-v7a:armeabi;]'
