@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/75.0.0.88.73;FBBV/964916263;FBDM/{density=1.875,width=720,height=1467};FBLC/en_GB;FBRV/466552116;FBCR/WTF;FBMF/Eten;FBBD/ETEN;FBPN/com.facebook.katana;FBDV/glofiish M800;FBSV/13.4.1;FBOP/19;FBCA/arm64-v8a:armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/137.0.0.66.31;FBBV/757089062;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBRV/900942594;FBCR/Partner Israel;FBMF/O2;FBBD/O2;FBPN/com.facebook.katana;FBDV/XDA Graphite;FBSV/16.5;FBOP/19;FBCA/armeabi v7a:armeabi;]'
