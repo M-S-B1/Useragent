@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/137.0.0.66.31;FBBV/757089062;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBRV/900942594;FBCR/Partner Israel;FBMF/O2;FBBD/O2;FBPN/com.facebook.katana;FBDV/XDA Graphite;FBSV/16.5;FBOP/19;FBCA/armeabi v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/370.0.0.37.121;FBBV/174075079;FBLC/en_US;FBRV/175415557;FBCR/Nepal Telecom;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LM-G910EMW;FBSV/8.1.0;FBOP/19;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.625,width=1080,height=2034};]'
