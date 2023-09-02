@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/429.0.0.27.114;FBBV/444810901;FBDM/{density=2.75,width=1080,height=2062};FBLC/en_US;FBRV/444810901;FBCR/A-Mobile;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 6 Pro;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]'
+'[FBAN/FB4A;FBAV/379.0.0.15.57;FBBV/585401453;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBRV/638740320;FBCR/Talkmobile;FBMF/HP;FBBD/HP;FBPN/com.facebook.katana;FBDV/iPAQ Voice Messenger;FBSV/10.0.14393.2214;FBOP/19;FBCA/arm64-v8a:armeabi-v7a:armeabi;]'
