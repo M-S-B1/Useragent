@@ -1,1 +1,1 @@
-'[FBAN/MessengerLiteForiOS;FBAV/339.0.0.18.118;FBBV/332337725;FBDV/iPhone13,2;FBMD/iPhone;FBSN/iOS;FBSV/15.1.1;FBSS/3;FBCR/;FBID/phone;FBLC/zh-Hant;FBOP/0]'
+'[FBAN/FB4A;FBAV/395.0.0.12.214;FBBV/319023499;FBDM/{density=4.0,width=1440,height=2560};FBLC/en_US;FBCR/Shelid;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S20;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
