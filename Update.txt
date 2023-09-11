@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/86.0.0.19.69;FBBV/34022666;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBCR/;FBMF/condor;FBBD/condor;FBPN/com.facebook.katana;FBDV/PGN605;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/343.0.0.37.117;FBPN/com.facebook.katana;FBLC/en_US;FBBV/329937443;FBCR/null;FBMF/Amlogic;FBBD/Amlogic;FBDV/Dragon Face;FBSV/8.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=1280,height=720};FB_FW/1;FBRV/332189930;]'
