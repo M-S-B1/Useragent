@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/430.0.0.23.113;FBBV/510343486;FBDM/{density=2.0,width=720,height=1459};FBLC/ar_Qaau_AR;FBRV/0;FB_FW/2;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A032F;FBSV/12;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/430.0.0.23.113;FBBV/510343486;FBDM/{density=2.0,width=720,height=1459};FBLC/ar_Qaau_AR;FBRV/0;FB_FW/2;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A520F;FBSV/12;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
