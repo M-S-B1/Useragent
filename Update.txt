@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/63.0.0.1967;FBBV/5569223;[FBAN/FB4A;FBAV/37.0.0.0.109;FBBV/11557663;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Android;FBMF/unknown;FBBD/generic;FBPN/com.facebook.katana;FBDV/google_sdk;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/28.0.0.1437;FBBV/5190008;[FBAN/FB4A;FBAV/6.0.0.28.28;FBBV/1263992;FBDM/{density=1.0,width=1280,height=752};FBLC/en_US;FBCR/o2 - de;FBPN/com.facebook.katana;FBDV/Lenovo B8000-H;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
