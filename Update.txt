@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/346.0.0.21.33;FBPN/com.facebook.katana;FBLC/en_US;FBBV/733855676;FBCR/AT&amp-T;FBMF/Oppo;FBBD/OPPO;FBDV/A57e;FBSV/10.0.18362.657;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.75,width=720,height=1466};FB_FW/1;]'
+'[FBAN/FB4A;FBAV/60.0.0.1344;FBBV/6489563;[FBAN/FB4A;FBAV/16.0.0.20.15;FBBV/4061184;FBDM/{density=1.5,width=540,height=960};FBLC/bm_ML;FB_FW/2;FBCR/MY CELCOM;FBPN/com.facebook.katana;FBDV/Lenovo A850+;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
