@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/652.0.0.3539;FBBV/6845788;[FBAN/FB4A;FBAV/277.0.0.41.126;FBBV/227128731;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/229111691;FBCR/Metro by T-Mobile;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(7) play;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/349.0.0.39.470;FBBV/344633538;FBDM/{density=1.875,width=720,height=1465};FBLC/en_US;FBRV/345212163;FBCR/GOLAN T;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A125F;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]'
