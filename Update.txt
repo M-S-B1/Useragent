@@ -1,1 +1,1 @@
-'[FBAN/Orca-Android;FBAV/405.0.0.16.112;FBPN/com.facebook.orca;FBLC/fr_CA;FBBV/311010463;FBCR/AuditelCAN;FBMF/OPPO;FBBD/OPPO;FBDV/Oppo R819;FBSV/4.2.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1280};FB_FW/1;FBBK/1]'
+'[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540683;FBDM/{density=4.0,width=1440,height=2368};FBLC/en_IN;FBRV/0;FBCR/Vodafone idea;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto Z (2);FBSV/9;FBOP/1;FBCA/arm64-v8a:;]'
