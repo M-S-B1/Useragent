@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/398.0.0.88.60;FBBV/74680604;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBCR/IND airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1911;FBSV/9.1.1;nullFBCA/armeabi-v7a:armeabi;]'
+'[FBAN/Orca-Android;FBAV/405.0.0.16.112;FBPN/com.facebook.orca;FBLC/fr_CA;FBBV/311010463;FBCR/AuditelCAN;FBMF/OPPO;FBBD/OPPO;FBDV/Oppo R819;FBSV/4.2.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1280};FB_FW/1;FBBK/1]'
