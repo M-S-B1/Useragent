@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/21.0.0.3970;FBBV/1912793;[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=1.75,width=720,height=1280};FBLC/fr_FR;FBCR/Sunrise;FBMF/Archos;FBBD/Archos;FBPN/com.facebook.katana;FBDV/ARCHOS 101 Xenon;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=1.75,width=720,height=1280};FBLC/fr_FR;FBCR/Sunrise;FBMF/Archos;FBBD/Archos;FBPN/com.facebook.katana;FBDV/ARCHOS 101 Xenon;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
