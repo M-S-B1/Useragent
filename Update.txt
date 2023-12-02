@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/61.0.0.8.69;FBBV/20569008;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Sprint;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-LS980;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/383.0.0.58.97;FBBV/561172468;FBRV/0;FBPN/com.facebook.katana;FBLC/vi_VN;FBMF/Oppo;FBBD/Oppo;FBDV/Oppo C978 Pro;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]'
