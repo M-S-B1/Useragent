@@ -1,1 +1,1 @@
-'[FBAN/FB4A;FBAV/402.0.0.15.69;FBBV/20748118;FBDM/{density=1.75,width=720,height=1280};FBLC/en_GB;FBCR/grameenphone;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO CK7n;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
+'[FBAN/EMA;FBLC/en_GB;FBAV/368.0.0.5.95;]'
